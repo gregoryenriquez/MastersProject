@@ -1,5 +1,6 @@
 ## Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
 S. Song, and J. Xiao. (CVPR2016)
+Original Project's [git](https://github.com/shurans/DeepSlidingShape)
 
 ### Compile code
 Download CUDA 7.5 and cuDNN 3. You will need to register with NVIDIA.
